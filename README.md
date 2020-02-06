@@ -1,5 +1,5 @@
 # CenteredBelowAppBarBehavior
-Demo with custom behavior, which helps view to take height exactly between AppBarLayout and bottom of screen. 
+Demo with custom behavior, which helps any view to take height exactly between the AppBarLayout and the bottom of screen. 
 
 Wrong | Right
 ----- | -----
